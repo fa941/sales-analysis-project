@@ -1,7 +1,5 @@
 # sales-analysis-project
 Power BI sales analysis project
-## 📁 Dataset
-- [Sports Equipment Store Dataset.xlsx](https://github.com/user-attachments/files/24925237/Sports.Equipment.Store.dataset.xlsx)
 
 ## 📷 Dashboard Preview
 - ![Order Details](https://github.com/user-attachments/assets/836e5eed-79dc-4838-9f3c-67a3d647e4ae)  
